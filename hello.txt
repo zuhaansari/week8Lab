@@ -7,3 +7,7 @@ var myBoolean = true;
 console.log("Name: " + myString);
 console.log("Lucky Number: " + myNumber);
 console.log("Good joke? " + myBoolean);
+
+==================================================
+console.log('pepperoni', 'olives')
+==================================================
