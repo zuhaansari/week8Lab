@@ -1,0 +1,3 @@
+var strength = '50000'
+console.log('How much stuff can a variable hold? ', strength);
+==============================================================
